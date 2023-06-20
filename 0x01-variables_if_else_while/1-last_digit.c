@@ -3,8 +3,8 @@
 #include <studio.h>
 
 /**
- * main -Print a text according to number
- * Return: always (success)
+ * main - Print a text according to number
+ * Return: Always (success)
  *
  */
 int main(void)
