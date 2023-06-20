@@ -3,7 +3,6 @@
 /**
  * main - Fuctions and nested loops
  *Return: Always 0 (success)
- *
  */
 
 int main(void)
