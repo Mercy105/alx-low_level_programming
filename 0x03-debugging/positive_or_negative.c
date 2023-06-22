@@ -7,10 +7,10 @@
  */
 void positive_or_negative(int i)
 {
-	if(i > 0)
-		printf("%lu is positive\n");
-	else if(i < 0)
-		printf("%lu is negative\n");
+	if (i > 0)
+		printf("%d is positive\n", i);
+	else if (i < 0)
+		printf("%d is negative\n", i);
 	else 
-		printf("%lu is zero\n");
+		printf("%d is zero\n", i);
 }
